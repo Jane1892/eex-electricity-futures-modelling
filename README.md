@@ -1,9 +1,9 @@
 # Smoothing the Curve: Forward Curve Construction and Factor Dynamics in German Electricity Futures
 
-**Authors:** Cora Abelseth and Jana Ondicova
-**Programme:** Master in Quantitative Finance
-**Institution:** BI Norwegian Business School   
-**Supervisor:** Alessandro Graniero
+**Authors:** Cora Abelseth and Jana Ondicova  
+**Programme:** Master in Quantitative Finance  
+**Institution:** BI Norwegian Business School  
+**Supervisor:** Alessandro Graniero  
 **Year:** 2026
 
 ## Overview
